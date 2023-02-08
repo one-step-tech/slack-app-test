@@ -1,0 +1,18 @@
+{
+  "name": "slack-app-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tank <dang.dinh.thanha@linecorp.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^3.12.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
